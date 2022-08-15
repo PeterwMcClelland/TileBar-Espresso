@@ -1,3 +1,7 @@
-header {
-    background-image: url(../assets/pages/images/IMG_0143.JPG);
+.bg-light {
+    background-image: url(/assets/pages/images/IMG_0143.JPG);
+}
+
+.row {
+    text-align: center;
 }
