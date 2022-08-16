@@ -2,6 +2,31 @@
     background-image: url(/assets/pages/images/IMG_0143.JPG);
 }
 
-.row {
+div .row {
     text-align: center;
+}
+
+.container {
+    padding-top: 250px;
+}
+
+.contactbody {
+    background-image: url(./pages/images/IMG_0143.JPG);
+    background-size: 1500px 1700px;
+    background-position: center;
+    background-position: top;
+}
+
+.cateringbody {
+    background-image: url(../assets/pages/images/IMG_0416.PNG);
+    background-size: 1600px 1000px;
+    background-position: center;
+    background-position: top;
+}
+
+.mainbody {
+    background-image: url(./pages/images/IMG_1428.JPG);
+    background-position: center;
+    background-position: top;
+    background-size: 1600px 1100px;
 }
