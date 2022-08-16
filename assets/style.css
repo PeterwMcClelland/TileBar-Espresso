@@ -2,18 +2,25 @@
     background-image: url(/assets/pages/images/IMG_0143.JPG);
 }
 
-div .row {
-    text-align: center;
-    
-}
-
 .container {
     padding-top: 150px;
 }
 
+.nav-link {
+    color: ivory;
+    font-weight: bold;
+}
+
 .indexcover {
     text-align: center;
-    padding-top: 500px;
+    padding-top: 200px;
+    font-weight: bold;
+    color: ivory;
+}
+
+.mainpage-nav {
+    text-align: center;
+    
 }
 
 p {
@@ -21,15 +28,18 @@ p {
     backdrop-filter: blur(20px);
     font-size: large;
     border-radius: 10px;
+    font-weight: 500;
 }
 
 .h2 {
+    font-weight: bold;
     color: ivory;
 }
 
 .navbar {
     padding-bottom: 1rem;
     padding-top: 1rem;
+    color: transparent;
 }
 
 .contactbody {
@@ -48,10 +58,10 @@ p {
 }
 
 .mainbody {
-    background-image: url(./pages/images/IMG_1428.JPG);
+    background-image: url(./pages/images/IMG_7491.JPG);
     background-position: unset;
     background-position: top;
-    background-size: 1600px 1100px;
+    background-size: 1400px 900px;
     
 }
 
