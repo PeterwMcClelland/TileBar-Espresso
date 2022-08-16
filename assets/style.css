@@ -7,7 +7,21 @@ div .row {
 }
 
 .container {
-    padding-top: 250px;
+    padding-top: 150px;
+}
+
+p {
+    color:ivory;
+    backdrop-filter: blur(10px);
+}
+
+.h2catering {
+    color: ivory;
+}
+
+.navbar {
+    padding-bottom: 1rem;
+    padding-top: 1rem;
 }
 
 .contactbody {
@@ -18,10 +32,11 @@ div .row {
 }
 
 .cateringbody {
-    background-image: url(../assets/pages/images/IMG_0416.PNG);
-    background-size: 1600px 1000px;
+    background-image: url(../assets/pages/images/IMG_7491.JPG);
+    background-size: 1400px 800px;
     background-position: center;
     background-position: top;
+
 }
 
 .mainbody {
