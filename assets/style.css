@@ -20,6 +20,7 @@ p {
     color:ivory;
     backdrop-filter: blur(20px);
     font-size: large;
+    border-radius: 10px;
 }
 
 .h2 {
@@ -60,7 +61,7 @@ p {
     -webkit-column-gap:5px; 
     -moz-column-count:5;
     -moz-column-gap:5px;
-    column-count:5;
+    column-count:3;
     column-gap:5px;
  }
 
