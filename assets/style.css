@@ -4,18 +4,25 @@
 
 div .row {
     text-align: center;
+    
 }
 
 .container {
     padding-top: 150px;
 }
 
-p {
-    color:ivory;
-    backdrop-filter: blur(10px);
+.indexcover {
+    text-align: center;
+    padding-top: 500px;
 }
 
-.h2catering {
+p {
+    color:ivory;
+    backdrop-filter: blur(20px);
+    font-size: large;
+}
+
+.h2 {
     color: ivory;
 }
 
@@ -25,8 +32,8 @@ p {
 }
 
 .contactbody {
-    background-image: url(./pages/images/IMG_0143.JPG);
-    background-size: 1500px 1700px;
+    background-image: url(./pages/images/P1220636.jpg);
+    background-size: 1800px 1200px;
     background-position: center;
     background-position: top;
 }
@@ -41,15 +48,16 @@ p {
 
 .mainbody {
     background-image: url(./pages/images/IMG_1428.JPG);
-    background-position: center;
+    background-position: unset;
     background-position: top;
     background-size: 1600px 1100px;
+    
 }
 
 .gallery {
     line-height:0;
-    -webkit-column-count:5; /* split it into 5 columns */
-    -webkit-column-gap:5px; /* give it a 5px gap between columns */
+    -webkit-column-count:5; 
+    -webkit-column-gap:5px; 
     -moz-column-count:5;
     -moz-column-gap:5px;
     column-count:5;
@@ -63,7 +71,7 @@ p {
  .gallery img {
     width: 100% !important;
     height: auto !important;
-    margin-bottom:5px; /* to match column gap */
+    margin-bottom:5px; 
     filter: grayscale(100%);
     transition: filter 1s;
  }
