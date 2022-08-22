@@ -119,7 +119,7 @@ p {
     -webkit-column-gap:5px; 
     -moz-column-count:5;
     -moz-column-gap:5px;
-    column-count:3;
+    column-count:2;
     column-gap:5px;
  }
 
@@ -132,7 +132,7 @@ p {
     height: auto !important;
     margin-bottom:5px; 
     filter: grayscale(100%);
-    transition: filter 1s;
+    transition: filter .5s;
  }
 
  @media (max-width: 1200px) {
