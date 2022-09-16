@@ -113,6 +113,8 @@ p {
     
 }
 
+/* Gallery */
+
 .gallery {
     line-height:0;
     -webkit-column-count:5; 
@@ -133,6 +135,25 @@ p {
     margin-bottom:5px; 
     filter: grayscale(100%);
     transition: filter .5s;
+ }
+
+ /*Quote*/
+
+ .h1quote {
+     color: ivory;
+     font-family: initial;
+     font-size: 60px;
+ }
+
+ .formtext {
+     font-family: initial;
+     color: ivory;
+ }
+
+ .quotevalue {
+     font-size: 75px;
+     color: ivory;
+     font-family: initial;
  }
 
  @media (max-width: 1200px) {

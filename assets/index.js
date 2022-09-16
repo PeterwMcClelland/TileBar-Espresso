@@ -3,5 +3,5 @@ function doMath() {
     var hours = document.getElementById('hours').value;
 
     var grandTotal = parseInt(people) * parseInt(hours) * 7 + 125;  
-    document.getElementById("value").innerHTML = grandTotal;
+    document.getElementById("value").innerHTML = '$' + grandTotal;
 }
