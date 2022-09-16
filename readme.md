@@ -9,7 +9,7 @@ also be used as a template for other food service companys.
 [![Screen-Shot-2022-08-31-at-6-29-16-PM.png](https://i.postimg.cc/q7mCFtLQ/Screen-Shot-2022-08-31-at-6-29-16-PM.png)](https://postimg.cc/4K9d7xjh)
 
 ## Built With
-HTML, CSS, Bootstrap
+HTML, CSS, Javascript, Bootstrap.
 
 ## GitHub & Deployed Site
 https://github.com/PeterwMcClelland/TileBar-Espresso
