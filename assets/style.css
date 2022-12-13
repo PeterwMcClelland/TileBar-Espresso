@@ -6,6 +6,12 @@
     border-radius: 10px;
 }
 
+header {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+
 .container {
     padding-top: 125px;
     padding-bottom: 200px;
